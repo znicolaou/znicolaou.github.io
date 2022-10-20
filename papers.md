@@ -3,6 +3,7 @@ layout: page
 title: Papers
 ---
 
+Google scholar: "https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ"
 
 Nicolaou, Zachary G., Daniel J. Case, Ernest B. Wee, Michelle M. Driscoll, and Adilson E. Motter. "Heterogeneity-stabilized homogeneous states in driven media." Nature communications 12, no. 1 (2021): 1-9.
 

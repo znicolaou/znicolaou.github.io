@@ -20,7 +20,7 @@ author: Zachary G. Nicolaou
 ###############################################
 
 navbar-links:
-  Bio: "aboutme"
+  About: "aboutme"
   Papers: "papers"
   Reseach themes:
     - Metamaterials: "papers"
@@ -28,7 +28,6 @@ navbar-links:
     - Synchronization: "papers"
     - Complex chemistry: "papers"
   Software: "https://github.com/znicolaou?tab=repositories"
-  Google scholar: "https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ"
 
 ################
 # --- Logo --- #
@@ -92,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
