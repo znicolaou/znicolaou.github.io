@@ -24,6 +24,7 @@ Nicolaou, Zachary G. "Stability and instability of axisymmetric droplets in ther
 
 Nicolaou, Zachary G., Hermann Riecke, and Adilson E. Motter. "Chimera states in continuous media: Existence and distinctness." Physical review letters 119, no. 24 (2017): 244101.
 
+
 Nicolaou, Zachary G., and Adilson E. Motter. "Longitudinal inverted compressibility in super-strained metamaterials." Journal of Statistical Physics 151, no. 6 (2013): 1162-1174.
 
 Z. G. Nicolaou & A. E. Motter, Mechanical metamaterials with negative compressibility transitions, Nature materials **11**, 608-613 (2012)

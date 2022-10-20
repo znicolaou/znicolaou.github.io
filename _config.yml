@@ -21,9 +21,13 @@ author: Zachary G. Nicolaou
 
 navbar-links:
   Bio: "aboutme"
-  Reseach:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Papers: "papers"
+  Reseach themes:
+    - Metamaterials: "papers"
+    - Pattern formation: "papers"
+    - Synchronization: "papers"
+    - Complex chemistry: "papers"
+  Software: "https://github.com/znicolaou?tab=repositories"
   Google scholar: "https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ"
 
 ################
