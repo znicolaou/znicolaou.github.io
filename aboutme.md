@@ -1,31 +1,12 @@
 ---
 layout: page
-title: Papers
+title: About me
 ---
 
+[Curriculum Vitae](ZGNicolaou_CV.pdf)
 
-Nicolaou, Zachary G., Daniel J. Case, Ernest B. Wee, Michelle M. Driscoll, and Adilson E. Motter. "Heterogeneity-stabilized homogeneous states in driven media." Nature communications 12, no. 1 (2021): 1-9.
+I  am currently a Washington Research Foundation Postdoctoral Scholar in the Department of Applied Mathematics at the University of Washington, and I collaborate with the groups of [J. Nathan Kutz]() and [Steven L. Brunton](). I received my B.S. from Northwestern University, majoring in Integrated Science, Physics, and Mathematics, and I received a Master’s of Advanced Study in Applied Mathematics and Theoretical Physics in the Part III program at Cambridge. I received my Ph. D. from Caltech in 2017, with my dissertation "Symmetry and variational analyses of fluid interface equations in the thin film limit".
 
-Nicolaou, Zachary G., and Adilson E. Motter. "Anharmonic classical time crystals: A coresonance pattern formation mechanism." Physical Review Research 3, no. 2 (2021): 023106.
+My research focuses on the emergence of complexity, with particular emphasis on synchronization and pattern formation in networks, condensed matter, and fluid mechanical systems. I utilize classical tools from applied mathematics and novel machine learning (ML) approaches to discover and characterize mechanisms behind complex phenomena. Current topics of interest are ML-enabled system identification and reduced order modeling, symmetry concepts (including chimera states, dimension reduction methods, and converse symmetry breaking), band-gaps design and associated complex phenomena such as localized states and anharmonic responses, and the kinetics of granular materials and topological defects.
 
-Nicolaou, Zachary G., Michael Sebek, István Z. Kiss, and Adilson E. Motter. "Coherent dynamics enhanced by uncorrelated noise." Physical review letters 125, no. 9 (2020): 094101.
-
-Nicolaou, Zachary G., and Adilson E. Motter. "Missing links as a source of seemingly variable constants in complex reaction networks." Physical Review Research 2, no. 4 (2020): 043135.
-
-Nicolaou, Zachary G., Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, and Adilson E. Motter. "Non-normality and non-monotonic dynamics in complex reaction networks." Physical Review Research 2, no. 4 (2020): 043059.
-
-Zhang, Yuanzhao, Zachary G. Nicolaou, Joseph D. Hart, Rajarshi Roy, and Adilson E. Motter. "Critical switching in globally attractive chimeras." Physical Review X 10, no. 1 (2020): 011044.
-
-Nicolaou, Zachary G., Deniz Eroglu, and Adilson E. Motter. "Multifaceted dynamics of Janus oscillator networks." Physical Review X 9, no. 1 (2019): 011017.
-
-Nicolaou, Zachary G., Bohan Xu, and Adilson E. Motter. "Minimal scattering entanglement in one-dimensional trapped gases." Physical Review A 99, no. 1 (2019): 012316.
-
-Nicolaou, Zachary G. "Stability and instability of axisymmetric droplets in thermocapillary-driven thin films." Nonlinearity 31, no. 3 (2018): 1009.
-
-Nicolaou, Zachary G., Hermann Riecke, and Adilson E. Motter. "Chimera states in continuous media: Existence and distinctness." Physical review letters 119, no. 24 (2017): 244101.
-
-Nicolaou, Zachary G., and Adilson E. Motter. "Longitudinal inverted compressibility in super-strained metamaterials." Journal of Statistical Physics 151, no. 6 (2013): 1162-1174.
-
-Z. G. Nicolaou & A. E. Motter, Mechanical metamaterials with negative compressibility transitions, Nature materials **11**, 608-613 (2012)
-
-Nicolaou, Zachary George. Symmetry and variational analyses of fluid interface equations in the thin film limit. California Institute of Technology, 2017.
+I am an active member of the Applied Mathematics Diversity Committee, and I advise undergraduate and graduate researchers at UW. Feel free to [contact me](emailto:zgn@uw.edu) to discuss research opportunities!

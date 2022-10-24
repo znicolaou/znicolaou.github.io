@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Complex Chemistry
+title: Complex Chemical Dynamics
 ---
 Chemical reaction networks exhibit complex and multi-scale dynamics in critical engineering and scientific systems. Application areas include combustion and related industrial energy systems, atmospheric chemistry of pollution and climate change models, and metabolic networks for biophysical cellular dynamics. These reaction networks are characterized by chemical species, reactions, and reaction rates, and are coupled to thermodynamic and transport processes. Researchers have focused on accurate models and measurements for individual chemical reaction rates for decades, but when complex models are built from these components, insurmountable challenges have arisen. I am interested in developing more principled models for chemical reaction networks, which account for physical and chemical processes while accounting for the complex collective behavior and sensitive and incomplete network information, leveraging machine learning and reduced-order approaches.
 

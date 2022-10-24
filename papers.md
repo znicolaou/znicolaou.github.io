@@ -18,6 +18,6 @@ title: Papers
 11. Nicolaou, Xu, and  Motter, [Minimal scattering entanglement in one-dimensional trapped gases](https://doi.org/10.1103/PhysRevA.99.012316), Phys. Rev. A **99**, 012316 (2019).
 12. Nicolaou, [Stability and instability of axisymmetric droplets in thermocapillary-driven thin films](https://doi.org/10.1088/1361-6544/aa999c), Nonlinearity **31**, 1009 (2018).
 13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).
-16. Nicolaou, [Symmetry and variational analyses of fluid interface equations in the thin film limit](https://www.proquest.com/docview/2129710996?pq-origsite=gscholar&fromopenview=true). California Institute of Technology ProQuest Dissertations Publishing, 2017.
-14. Nicolaou and Motter, [Longitudinal inverted compressibility in super-strained metamaterials](https://doi.org/10.1007/s10955-013-0742-8), J. Stat. Phys. **151**, 1162 (2013).
-15. Nicolaou and Motter, [Mechanical metamaterials with negative compressibility transitions](https://doi.org/10.1038/nmat3331), Nat. Mater.  **11**, 608 (2012).
+14. Nicolaou, [Symmetry and variational analyses of fluid interface equations in the thin film limit](https://www.proquest.com/docview/2129710996?pq-origsite=gscholar&fromopenview=true). California Institute of Technology ProQuest Dissertations Publishing, 2017.
+15. Nicolaou and Motter, [Longitudinal inverted compressibility in super-strained metamaterials](https://doi.org/10.1007/s10955-013-0742-8), J. Stat. Phys. **151**, 1162 (2013).
+16. Nicolaou and Motter, [Mechanical metamaterials with negative compressibility transitions](https://doi.org/10.1038/nmat3331), Nat. Mater.  **11**, 608 (2012).

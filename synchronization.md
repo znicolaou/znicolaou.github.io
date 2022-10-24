@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Synchronization
+title: Patterns of synchrony
 ---
 Synchronization, in which the coupled oscillators begin to evolve in a highly correlated manner, is one of the best characterized examples of complex and emergent phenomena in nonlinear dynamics. Pioneers like Kuramoto and Winfree sought to apply methods from statistical physics to the oscillatory dynamics appearing in biological and chemical systems.  More recently, the discovery of chimera states, consisting of coexisting domains of coherence and incoherence in identical and identically-coupled oscillators, has led to interesting studies in symmetry breaking bifurcations. The impact of coupling network structure and disorder has also highlighted the diverse range of complex synchronization phenomena emerging in real-world systems.
 
 ## Related works
-3. Nicolaou, Zachary G., Michael Sebek, István Z. Kiss, and Adilson E. Motter. "Coherent dynamics enhanced by uncorrelated noise." Physical review letters 125, no. 9 (2020): 094101.
-6. Zhang, Yuanzhao, Zachary G. Nicolaou, Joseph D. Hart, Rajarshi Roy, and Adilson E. Motter. "Critical switching in globally attractive chimeras." Physical Review X 10, no. 1 (2020): 011044.
-7. Nicolaou, Zachary G., Deniz Eroglu, and Adilson E. Motter. "Multifaceted dynamics of Janus oscillator networks." Physical Review X 9, no. 1 (2019): 011017.
-10. Nicolaou, Zachary G., Hermann Riecke, and Adilson E. Motter. "Chimera states in continuous media: Existence and distinctness." Physical review letters 119, no. 24 (2017): 244101.
+6. Nicolaou, Sebek, Kiss, and Motter, [Coherent dynamics enhanced by uncorrelated noise](https://doi.org/10.1103/PhysRevLett.125.094101), Phys. Rev. Lett. **125**, 094101 (2020).
+9. Zhang, Nicolaou, Hart, Roy, and Motter, [Critical switching in globally attractive chimeras](https://doi.org/10.1103/PhysRevX.10.011044), Phys. Rev. X **10**, 011044 (2020).
+10. Nicolaou, Eroglu, and Motter, [Multifaceted dynamics of Janus oscillator networks](https://doi.org/10.1103/PhysRevX.9.011017), Phys. Rev. X **9**, 011017 (2019).
+13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).

@@ -3,31 +3,32 @@ layout: page
 title: Papers
 ---
 
-Google scholar: "https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ"
+## Published animations
 
-Nicolaou, Zachary G., Daniel J. Case, Ernest B. Wee, Michelle M. Driscoll, and Adilson E. Motter. "Heterogeneity-stabilized homogeneous states in driven media." Nature communications 12, no. 1 (2021): 1-9.
+### Animated paper summaries
+<video muted autoplay controls>
+    <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4">
+</video>
+10. Nicolaou, Eroglu, and Motter, [Multifaceted dynamics of Janus oscillator networks](https://doi.org/10.1103/PhysRevX.9.011017), Phys. Rev. X **9**, 011017 (2019).
 
-Nicolaou, Zachary G., and Adilson E. Motter. "Anharmonic classical time crystals: A coresonance pattern formation mechanism." Physical Review Research 3, no. 2 (2021): 023106.
+5. Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).
 
-Nicolaou, Zachary G., Michael Sebek, István Z. Kiss, and Adilson E. Motter. "Coherent dynamics enhanced by uncorrelated noise." Physical review letters 125, no. 9 (2020): 094101.
+4. Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).
 
-Nicolaou, Zachary G., and Adilson E. Motter. "Missing links as a source of seemingly variable constants in complex reaction networks." Physical Review Research 2, no. 4 (2020): 043135.
+13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).
 
-Nicolaou, Zachary G., Takashi Nishikawa, Schuyler B. Nicholson, Jason R. Green, and Adilson E. Motter. "Non-normality and non-monotonic dynamics in complex reaction networks." Physical Review Research 2, no. 4 (2020): 043059.
+### Pretty figures and animations from papers
 
-Zhang, Yuanzhao, Zachary G. Nicolaou, Joseph D. Hart, Rajarshi Roy, and Adilson E. Motter. "Critical switching in globally attractive chimeras." Physical Review X 10, no. 1 (2020): 011044.
+#### Complex Chemical Dynamics
 
-Nicolaou, Zachary G., Deniz Eroglu, and Adilson E. Motter. "Multifaceted dynamics of Janus oscillator networks." Physical Review X 9, no. 1 (2019): 011017.
+#### Synchronization Phenomena
 
-Nicolaou, Zachary G., Bohan Xu, and Adilson E. Motter. "Minimal scattering entanglement in one-dimensional trapped gases." Physical Review A 99, no. 1 (2019): 012316.
+#### Material and Fluid Designs
 
-Nicolaou, Zachary G. "Stability and instability of axisymmetric droplets in thermocapillary-driven thin films." Nonlinearity 31, no. 3 (2018): 1009.
+## Unpublished animations and ongoing work
 
-Nicolaou, Zachary G., Hermann Riecke, and Adilson E. Motter. "Chimera states in continuous media: Existence and distinctness." Physical review letters 119, no. 24 (2017): 244101.
+### Granular Materials
 
+### Snaking Limit Cycles
 
-Nicolaou, Zachary G., and Adilson E. Motter. "Longitudinal inverted compressibility in super-strained metamaterials." Journal of Statistical Physics 151, no. 6 (2013): 1162-1174.
-
-Z. G. Nicolaou & A. E. Motter, Mechanical metamaterials with negative compressibility transitions, Nature materials **11**, 608-613 (2012)
-
-Nicolaou, Zachary George. Symmetry and variational analyses of fluid interface equations in the thin film limit. California Institute of Technology, 2017.
+### Faraday Wave Experiments

@@ -23,8 +23,8 @@ navbar-links:
   Papers: "papers"
   Reseach themes:
     - Material and Fluid Design: "materials"
-    - Synchronization: "synchronization"
-    - Complex chemistry: "chemistry"
+    - Patterns of Synchrony: "synchronization"
+    - Complex Chemical Dynamics: "chemistry"
     - Numerics and Machine Learning: "numerics"
   Software: "https://github.com/znicolaou?tab=repositories"
   Gallery: "gallery"
