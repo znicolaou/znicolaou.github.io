@@ -13,12 +13,12 @@ I study a variety of classical physical systems, scientific and machine learning
 ---
 
 My research themes include:
-- ['Pattern formation'](patternformation.md)
-- ['Synchronization'](syncronization.md)
-- ['Complex chemistry'](chemistry.md)
-- ['Symmetry'](symmetry.md)
-- ['Metamaterials'](metamaterials.md)
-- ['System identification'](systemidentification.mb)
+- [Pattern formation](patternformation.md)
+- [Synchronization](synchronization.md)
+- [Complex chemistry](chemistry.md)
+- [Symmetry](symmetry.md)
+- [Material Design](metamaterials.md)
+- [System identification](systemidentification.mb)
 
 ---
 
