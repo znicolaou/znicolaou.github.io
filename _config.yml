@@ -28,6 +28,7 @@ navbar-links:
     - Complex chemistry: "chemistry"
     - Symmetry: "symmetry"
     - Metamaterials: "metamaterials"
+    - System identification: "systemidentification"
   Software: "https://github.com/znicolaou?tab=repositories"
   Gallery: "gallery"
 
