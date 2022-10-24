@@ -3,7 +3,7 @@ layout: page
 title: Papers
 ---
 
-Google scholar: https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ
+[Google scholar](https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ)
 
 1. Nicolaou, Nicholson, Nishikawa, Motter, and Green, Prevalence of multistability and nonstationarity in driven chemical networks, in preparation.
 2. Nicolaou, Guo, Chen, Brunton, and Kutz, Data-driven discovery and extrapolation of parameterized pattern-forming dynamics, in preparation.

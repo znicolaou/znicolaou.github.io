@@ -2,7 +2,7 @@
 layout: page
 title: Material and Fluid Design
 ---
-Blurb
+Material and fluid systems, composed of microscopic and mesoscopic coupled material elements, can exhibit diverse and complex macroscopic behaviors. The theory of pattern formation, developed in the late twentieth century, characterizes universal mechanisms for the development of patterns seen in diverse natural and man-made systems, ranging from morphological development in biology and waves in driven fluids to ecological patterns of vegitation and planetary bands. Key to this approach is the characterization of instabilities and symmetry breaking bifurcations, which enables the development of universal model equations and universality classes. I aim to leverage understanding in pattern formation to design of novel metamaterials, fluid systems, and self-assembled computational and sensing technologies.
 
 ## Related works
 1. Nicolaou, Zachary G., Daniel J. Case, Ernest B. Wee, Michelle M. Driscoll, and Adilson E. Motter. "Heterogeneity-stabilized homogeneous states in driven media." Nature communications 12, no. 1 (2021): 1-9.

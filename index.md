@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Zachary G. Nicolaou
+subtitle: University of Washington Department of Applied Mathematics
 subtitle: Washington Research Foundation Postdoctoral Scholar
 ---
 
