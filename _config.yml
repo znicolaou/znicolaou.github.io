@@ -18,11 +18,6 @@ author: Zachary G. Nicolaou
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-- [Synchronization](synchronization.md)
-- [Complex chemistry](chemistry.md)
-- [Material and Fluid Design](materials.md)
-- [Numerics and Machine Learning](numerics.mb)
-
 navbar-links:
   About: "aboutme"
   Papers: "papers"
