@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine learning and scientific computing
+title: Numerics and Machine Learning
 ---
 Blurb
 

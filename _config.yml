@@ -18,17 +18,19 @@ author: Zachary G. Nicolaou
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+- [Synchronization](synchronization.md)
+- [Complex chemistry](chemistry.md)
+- [Material and Fluid Design](materials.md)
+- [Numerics and Machine Learning](numerics.mb)
 
 navbar-links:
   About: "aboutme"
   Papers: "papers"
   Reseach themes:
-    - Pattern formation: "patternformation"
     - Synchronization: "synchronization"
     - Complex chemistry: "chemistry"
-    - Symmetry: "symmetry"
-    - Material design: "metamaterials"
-    - System identification: "systemidentification"
+    - Material and Fluid Design: "materials"
+    - Numerics and Machine Learning: "numerics"
   Software: "https://github.com/znicolaou?tab=repositories"
   Gallery: "gallery"
 
