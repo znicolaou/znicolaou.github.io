@@ -8,18 +8,16 @@ Welcome to my website!
 
 ---
 
-I study a variety of classical physical systems, scientific and machine learning approaches, and complex phenomena. You can see more details ['about me'](#aboutme).
+I study a variety of classical physical systems, scientific computing and machine learning approaches, and complex phenomena. You can see more details ['about me'](#aboutme).
 
 ---
 
 My research themes include:
-- [Pattern formation](patternformation.md)
 - [Synchronization](synchronization.md)
 - [Complex chemistry](chemistry.md)
-- [Symmetry](symmetry.md)
-- [Material Design](metamaterials.md)
-- [System identification](systemidentification.mb)
+- [Material and Fluid Design](materials.md)
+- [Machine Learning and Scientific Computing](systemidentification.mb)
 
 ---
 
-Check out some pretty videos and images in my gallery.
+Check out some pretty videos and images in my [image and movie gallery](gallery.md).
