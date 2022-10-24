@@ -24,10 +24,10 @@ navbar-links:
   Papers: "papers"
   Reseach themes:
     - Pattern formation: "patternformation"
-    - Synchronization: "syncronization"
+    - Synchronization: "synchronization"
     - Complex chemistry: "chemistry"
     - Symmetry: "symmetry"
-    - Metamaterials: "metamaterials"
+    - Material design: "metamaterials"
     - System identification: "systemidentification"
   Software: "https://github.com/znicolaou?tab=repositories"
   Gallery: "gallery"
