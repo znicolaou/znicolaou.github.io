@@ -19,14 +19,16 @@ title: Gallery
 <details>
   <summary>Click to expand</summary>
   <pre>
-  <div class="left">
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif"  width=150 height=auto>
-  <div max-width:150>  Transient non-normal growth </div>
+  <pre>
+  <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
+    <img src="/assets/gallery/figures/nonnormal.gif" />
+    <p>Transient growth due to non-normal chemical dynamics.</p>
   </div>
-  <div class="right">
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif" width=250 height=auto>
-  <div max-width:250> Combustion reaction network </div>
-  </div>  
+
+  <div class="right" style="width:400px; vertical-align:top; white-space:pre-wrap">
+    <img src="/assets/gallery/figures/combustion.gif" />
+    <p>Ignition in a combustion reation network.</p>
+  </div>
   </pre>
 </details>
 
