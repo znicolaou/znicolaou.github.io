@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Papers
+title: Gallery
 ---
 
 ## Published animations
 
 ### Animated paper summaries
-<video muted autoplay controls>
+<video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4">
 </video>
 10. Nicolaou, Eroglu, and Motter, [Multifaceted dynamics of Janus oscillator networks](https://doi.org/10.1103/PhysRevX.9.011017), Phys. Rev. X **9**, 011017 (2019).
@@ -20,15 +20,27 @@ title: Papers
 ### Pretty figures and animations from papers
 
 #### Complex Chemical Dynamics
+<img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
+
+<img src="{{ site.my-media-path }}/assets/gallery/figures/nonormal.gif">
+
 
 #### Synchronization Phenomena
+<img src="{{ site.my-media-path }}/assets/gallery/figures/spiral.gif">
+
+<img src="{{ site.my-media-path }}/assets/gallery/figures/switching.gif">
+
+<img src="{{ site.my-media-path }}/assets/gallery/figures/torus.gif">
 
 #### Material and Fluid Designs
+<img src="{{ site.my-media-path }}/assets/gallery/figures/metamaterials.gif">
+
+<img src="{{ site.my-media-path }}/assets/gallery/figures/blowup.gif">
 
 ## Unpublished animations and ongoing work
 
 ### Granular Materials
 
-### Snaking Limit Cycles
+### Localized Limit Cycles
 
 ### Faraday Wave Experiments
