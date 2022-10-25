@@ -4,17 +4,15 @@ title: Gallery
 ---
 
 ## Two column test
-<div class="row">
-    <div class="col-md-6">
-        **some code block here**
-        **another code block here**
-    </div>
-    <div class="col-md-6">
-        **some text here**
-        ##some header here
-        ###something else here
-    </div>
+<div class="left">
+<p>Some explanation goes here</p>
+<p>Another example...</p>
 </div>
+<div class="right">
+<pre> // some code goes here </pre>
+<pre> // more example code goes here </pre>
+</div>
+
 
 
 ## Animated paper summaries
