@@ -21,4 +21,4 @@ My research themes include:
 
 ---
 
-Check out some pretty videos and images in my [image and movie gallery](gallery.md).
+Check out some pretty animated figures and videos in my [movie gallery](gallery.md).

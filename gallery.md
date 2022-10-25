@@ -6,29 +6,28 @@ title: Gallery
 ## Animated paper summaries
 <details>
   <summary>Click to expand</summary>
-10. Nicolaou, Eroglu, and Motter, [Multifaceted dynamics of Janus oscillator networks](https://doi.org/10.1103/PhysRevX.9.011017), Phys. Rev. X **9**, 011017 (2019).
 <p>10. Nicolaou, Eroglu, and Motter, <a href="https://doi.org/10.1103/PhysRevX.9.011017">Multifaceted dynamics of Janus oscillator networks</a>, Phys. Rev. X <strong>9</strong>, 011017 (2019).</p>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4" width=400>
 </video>
 <br>
-
+<hline>
 <p>5. Nicolaou and Motter. <a href="https://doi.org/10.1103/PhysRevResearch.3.023106">Anharmonic classical time crystals: A coresonance pattern formation mechanism</a>, Phys. Rev. Research <strong>3</strong>, 023106 (2021).</p>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/anharmonic2.mp4" type="video/mp4" width=400>
 </video>
 <br>
-
-4. Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).
+<hline>
+<span>4. Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).</span>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/hshs2.mp4" type="video/mp4">
 </video>
 <br>
-
-13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).
+<hline>
+<span>13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).</span>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/continuouschimeras2.mp4" type="video/mp4">
