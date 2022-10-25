@@ -53,12 +53,12 @@ title: Gallery
 <details>
 	<summary>Click to expand</summary>
   <pre>
-  <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
+  <div class="left" style="width:300px; vertical-align:top; white-space:pre-wrap;">
     <img src="/assets/gallery/figures/metamaterials.gif" />
     <p>Metamaterials exhibiting inverted compressibility transitions.</p>
   </div>
 
-  <div class="right" style="width:400px; vertical-align:top; white-space:pre-wrap">
+  <div class="right" style="width:300px; vertical-align:top; white-space:pre-wrap">
     <img src="/assets/gallery/figures/blowup.gif" />
     <p>Jet formation in a thin fluid film up under thermocapillary driving.</p>
   </div>
