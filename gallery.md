@@ -3,6 +3,7 @@ layout: page
 title: Gallery
 ---
 
+## Two column test
 <div class="row">
     <div class="col-md-6">
         **some code block here**
@@ -30,13 +31,13 @@ title: Gallery
 
 ## Complex Chemical Dynamics
 <details>
-<summary>Click to expand</summary>
-<pre>
-### column1<img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
+  <summary>Click to expand</summary>
+  <pre>
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
 
-### column2<img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
 
-</pre>
+  </pre>
 </details>
 
 ## Synchronization Phenomena
