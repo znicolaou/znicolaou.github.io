@@ -23,10 +23,14 @@ title: Gallery
 <details>
 	<summary>Click to expand</summary>
 	<pre>
+  <div class="begin-examples"></div>
+  ### column1
   <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
 
+  ### column2
   <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
 
+  <div class="end-examples"></div>
 	</pre>
 
 </details>
