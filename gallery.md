@@ -23,7 +23,7 @@ title: Gallery
 
 13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).
 <video muted controls>
-    <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4" width=400>
+    <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/continuouschimeras.mp4" type="video/mp4" width=400>
 </video>
 </details>
 
