@@ -23,8 +23,7 @@ title: Gallery
 <details>
 	<summary>Click to expand</summary>
 	<pre>
-
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonormal.gif">
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
 
   <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
 
@@ -34,16 +33,32 @@ title: Gallery
 
 
 #### Synchronization Phenomena
-<img src="{{ site.my-media-path }}/assets/gallery/figures/spiral.gif">
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/spiral.gif">
 
-<img src="{{ site.my-media-path }}/assets/gallery/figures/switching.gif">
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/switching.gif">
 
-<img src="{{ site.my-media-path }}/assets/gallery/figures/torus.gif">
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/torus.gif">
+
+  </pre>
+
+</details>
+
 
 #### Material and Fluid Designs
-<img src="{{ site.my-media-path }}/assets/gallery/figures/metamaterials.gif">
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/metamaterials.gif">
 
-<img src="{{ site.my-media-path }}/assets/gallery/figures/blowup.gif">
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/blowup.gif">
+
+  </pre>
+
+</details>
+
 
 ## Unpublished animations and ongoing work
 
