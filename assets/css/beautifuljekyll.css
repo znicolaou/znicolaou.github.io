@@ -71,12 +71,20 @@ div.left {
     float: left;
     width: 50%;
 }
-
+div.left:after {
+  content: "";
+  background-color: #000;
+  position: absolute;
+  width: 5px;
+  height: 100px;
+  top: 10px;
+  left: 50%;
+  display: block;
+}
 div.right {
     float: right;
     width: 50%;
 }
-
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
