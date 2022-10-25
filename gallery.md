@@ -7,13 +7,14 @@ title: Gallery
 <details>
   <summary>Click to expand</summary>
 10. Nicolaou, Eroglu, and Motter, [Multifaceted dynamics of Janus oscillator networks](https://doi.org/10.1103/PhysRevX.9.011017), Phys. Rev. X **9**, 011017 (2019).
+<p>10. Nicolaou, Eroglu, and Motter, <a href="https://doi.org/10.1103/PhysRevX.9.011017">Multifaceted dynamics of Janus oscillator networks</a>, Phys. Rev. X <strong>9</strong>, 011017 (2019).</p>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4" width=400>
 </video>
 <br>
 
-5. Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).
+<p>5. Nicolaou and Motter. <a href="https://doi.org/10.1103/PhysRevResearch.3.023106">Anharmonic classical time crystals: A coresonance pattern formation mechanism</a>, Phys. Rev. Research <strong>3</strong>, 023106 (2021).</p>
 <br>
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/anharmonic2.mp4" type="video/mp4" width=400>
