@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: twocolumn
 title: Gallery
 ---
 
