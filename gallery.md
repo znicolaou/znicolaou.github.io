@@ -3,18 +3,6 @@ layout: page
 title: Gallery
 ---
 
-## Two column test
-<div class="left">
-<p>Some explanation goes here</p>
-<p>Another example...</p>
-</div>
-<div class="right">
-<pre> // some code goes here </pre>
-<pre> // more example code goes here </pre>
-</div>
-
-
-
 ## Animated paper summaries
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4">
@@ -31,10 +19,12 @@ title: Gallery
 <details>
   <summary>Click to expand</summary>
   <pre>
+  <div class="left">
   <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
-
+  </div>
+  <div class="right">
   <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
-
+  </div>  
   </pre>
 </details>
 
