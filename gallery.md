@@ -86,8 +86,47 @@ title: Gallery
 
 </details>
 
+## Faraday Wave Experiments
+<details>
+	<summary>Click to expand</summary>
+  <pre>
+  <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
+    <img src="/assets/gallery/unpublished/cylinder4_square.gif" />
+    <p>Classical Faraday waves in a cylindrical dish.</p>
+  </div>
+
+  <div class="right" style="width:400px; vertical-align:top; white-space:pre-wrap">
+    <img src="/assets/gallery/unpublished/1dvid_short.gif" />
+    <p>Farday waves in an ant-farm geometry, with interface evolution extracted by computer-vision processing.</p>
+  </div>
+  </pre>
+
+</details>
+
+
 ## Granular Materials
+<details>
+	<summary>Click to expand</summary>
+  <pre>
+  <div class="left" style="width:300px; vertical-align:top; white-space:pre-wrap;">
+    <img src="/assets/gallery/unpublished/9_animation.gif" />
+    <p>A gas of soft spheres near the jamming transition.</p>
+  </div>
+
+  <div class="right" style="width:300px; vertical-align:top; white-space:pre-wrap">
+    <img src="/assets/gallery/unpublished/intruders.gif" />
+    <p>Particle tracking of large defects in a granular material medium driven by vibrations.</p>
+  </div>
+  </pre>
+
+</details>
 
 ## Localized Limit Cycles
+<details>
+	<summary>Click to expand</summary>
+  <pre>
+  <img src="/assets/gallery/unpublished/solitons.gif" />
+  <p>Localized oscillatory states connecting limit cycles and invariant tori.</p>
+  </pre>
 
-## Faraday Wave Experiments
+</details>

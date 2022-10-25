@@ -72,17 +72,6 @@ div.left {
     width: 50%;
     vertical-align: top;
 }
-div.left:after {
-  content: "";
-  background-color: #000;
-  position: absolute;
-  width: 5px;
-  height: 100px;
-  top: 10px;
-  left: 50%;
-  display: block;
-  vertical-align: top;
-}
 div.right {
     float: right;
     width: 50%;
