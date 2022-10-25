@@ -19,7 +19,6 @@ title: Gallery
 <details>
   <summary>Click to expand</summary>
   <pre>
-  <pre>
   <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
     <img src="/assets/gallery/figures/nonnormal.gif" />
     <p>Transient growth due to non-normal chemical dynamics.</p>
@@ -35,13 +34,16 @@ title: Gallery
 ## Synchronization Phenomena
 <details>
 	<summary>Click to expand</summary>
-	<pre>
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/spiral.gif">
+  <pre>
+  <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
+    <img src="/assets/gallery/figures/spiral.gif" />
+    <p>Frozen vortex chimera in the complex Ginzburg-Landau equation.</p>
+  </div>
 
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/switching.gif">
-
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/torus.gif">
-
+  <div class="right" style="width:400px; vertical-align:top; white-space:pre-wrap">
+    <img src="/assets/gallery/figures/switching.gif" />
+    <p>Critical switching chimera in coupled rings optical oscillators.</p>
+  </div>
   </pre>
 
 </details>
@@ -50,11 +52,16 @@ title: Gallery
 ## Material and Fluid Designs
 <details>
 	<summary>Click to expand</summary>
-	<pre>
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/metamaterials.gif">
+  <pre>
+  <div class="left" style="width:200px; vertical-align:top; white-space:pre-wrap;">
+    <img src="/assets/gallery/figures/metamaterials.gif" />
+    <p>Metamaterials exhibiting inverted compressibility transitions.</p>
+  </div>
 
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/blowup.gif">
-
+  <div class="right" style="width:400px; vertical-align:top; white-space:pre-wrap">
+    <img src="/assets/gallery/figures/blowup.gif" />
+    <p>Jet formation in a thin fluid film up under thermocapillary driving.</p>
+  </div>
   </pre>
 
 </details>
