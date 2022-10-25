@@ -70,6 +70,7 @@ hr.small {
 div.left {
     float: left;
     width: 50%;
+    vertical-align: top;
 }
 div.left:after {
   content: "";
@@ -80,10 +81,12 @@ div.left:after {
   top: 10px;
   left: 50%;
   display: block;
+  vertical-align: top;
 }
 div.right {
     float: right;
     width: 50%;
+    vertical-align: top;
 }
 
 /* fix in-page anchors to not be behind fixed header */

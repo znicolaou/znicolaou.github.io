@@ -20,11 +20,11 @@ title: Gallery
   <summary>Click to expand</summary>
   <pre>
   <div class="left">
-  <p><img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif" height="256" width="auto"></p>
+  <p><img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif" height="150" width="auto"></p>
   <p> Transient non-normal growth </p>
   </div>
   <div class="right">
-  <p><img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif" height="256" width="auto"></p>
+  <p><img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif" height="200" width="auto"></p>
   <p> Combustion reaction network </p>
   </div>  
   </pre>
