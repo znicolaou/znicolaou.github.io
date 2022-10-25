@@ -3,9 +3,7 @@ layout: twocolumn
 title: Gallery
 ---
 
-## Published animations
-
-### Animated paper summaries
+## Animated paper summaries
 <video muted controls>
     <source src="{{ site.my-media-path }}/assets/gallery/papersummaries/janusoscillators2.mp4" type="video/mp4">
 </video>
@@ -17,26 +15,21 @@ title: Gallery
 
 13. Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).
 
-### Pretty figures and animations from papers
-
-#### Complex Chemical Dynamics
+## Complex Chemical Dynamics
 <details>
-	<summary>Click to expand</summary>
-	<pre>
-  <div class="begin-examples"></div>
-  ### column1
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
+<summary>Click to expand</summary>
+<div class="begin-examples"></div>
+### column1
+<img src="{{ site.my-media-path }}/assets/gallery/figures/nonnormal.gif">
 
-  ### column2
-  <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
+### column2
+<img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
 
-  <div class="end-examples"></div>
-	</pre>
-
+<div class="end-examples"></div>
 </details>
 
 
-#### Synchronization Phenomena
+## Synchronization Phenomena
 <details>
 	<summary>Click to expand</summary>
 	<pre>
@@ -51,7 +44,7 @@ title: Gallery
 </details>
 
 
-#### Material and Fluid Designs
+## Material and Fluid Designs
 <details>
 	<summary>Click to expand</summary>
 	<pre>
@@ -63,11 +56,8 @@ title: Gallery
 
 </details>
 
+## Granular Materials
 
-## Unpublished animations and ongoing work
+## Localized Limit Cycles
 
-### Granular Materials
-
-### Localized Limit Cycles
-
-### Faraday Wave Experiments
+## Faraday Wave Experiments
