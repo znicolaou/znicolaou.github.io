@@ -20,27 +20,30 @@ title: Gallery
 ### Pretty figures and animations from papers
 
 #### Complex Chemical Dynamics
-[expand]
-<img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
+<details>
+	<summary>Click to expand</summary>
+	<pre>
 
-<img src="{{ site.my-media-path }}/assets/gallery/figures/nonormal.gif">
-[\expand]
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/nonormal.gif">
+
+  <img src="{{ site.my-media-path }}/assets/gallery/figures/combustion.gif">
+
+	</pre>
+
+</details>
+
 
 #### Synchronization Phenomena
-[expand]
 <img src="{{ site.my-media-path }}/assets/gallery/figures/spiral.gif">
 
 <img src="{{ site.my-media-path }}/assets/gallery/figures/switching.gif">
 
 <img src="{{ site.my-media-path }}/assets/gallery/figures/torus.gif">
-[\expand]
 
 #### Material and Fluid Designs
-[expand]
 <img src="{{ site.my-media-path }}/assets/gallery/figures/metamaterials.gif">
 
 <img src="{{ site.my-media-path }}/assets/gallery/figures/blowup.gif">
-[\expand]
 
 ## Unpublished animations and ongoing work
 
