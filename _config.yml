@@ -26,8 +26,10 @@ navbar-links:
     - Patterns of Synchrony: "synchronization"
     - Complex Chemical Dynamics: "chemistry"
     - Numerics and Machine Learning: "numerics"
+  Gallery:
+    - Animated Figures: "gallery"
+    - Animated Paper Summaries: "gallery2"
   Software: "https://github.com/znicolaou?tab=repositories"
-  Gallery: "gallery"
 
 ################
 # --- Logo --- #

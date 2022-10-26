@@ -20,4 +20,4 @@ My research themes include:
 
 ---
 
-Check out some pretty animated figures and videos in my [movie gallery](gallery.md).
+Check out my gallery for some pretty [animated figures](gallery.md) and [animated paper summaries](gallery2.md).
