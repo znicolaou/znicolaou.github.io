@@ -4,6 +4,12 @@ title: Material and Fluid Design
 ---
 Material and fluid systems, composed of microscopic and mesoscopic coupled material elements, can exhibit diverse and complex macroscopic behaviors. The theory of pattern formation, developed in the late twentieth century, characterizes universal mechanisms for the development of patterns seen in diverse natural and man-made systems, ranging from morphological development in biology and waves in driven fluids to ecological patterns of vegetation and planetary bands. Key to this approach is the characterization of instabilities and symmetry breaking bifurcations, which enables the development of universal model equations and universality classes. I aim to leverage understanding in pattern formation to design of novel metamaterials, fluid systems, and self-assembled computational and sensing technologies.
 
+<figure>
+<img src="/assets/img/materials.jpg" width=1024 />
+<figcaption align="center">(a) Unit cell design for a mechanical metamaterial exhibit negative compressibility transitions. (b) Thin film instabilities and symmetry reductions. (c) Anharmonic response due to coresonant modes in a pendulum array driven near a band gap. (d) Heterogeneity-stabilized homogeneous states in Faraday wave finite element simulations and experiments.
+</figcaption>
+</figure>
+
 ## Related works
 4. Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).
 5. Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).
