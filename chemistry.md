@@ -4,6 +4,12 @@ title: Complex Chemical Dynamics
 ---
 Chemical reaction networks exhibit complex and multi-scale dynamics in critical engineering and scientific systems. Application areas include combustion and related industrial energy systems, atmospheric chemistry of pollution and climate change models, and metabolic networks for biophysical cellular dynamics. These reaction networks are characterized by chemical species, reactions, and reaction rates, and are coupled to thermodynamic and transport processes. Researchers have focused on accurate models and measurements for individual chemical reaction rates for decades, but when complex models are built from these components, insurmountable challenges have arisen. I am interested in developing more principled models for chemical reaction networks, which account for physical and chemical processes while accounting for the complex collective behavior and sensitive and incomplete network information, leveraging machine learning and reduced-order approaches.
 
+<figure>
+<img src="/assets/img/chemistry.jpg" width=1024 />
+<figcaption align="center">(a) Driven chemical reaction network characterized by species concentrations $X_i$ and rate constants $\kappa_j^\pm$. (b) Ignition in a methane combustion network. (c) Network representation of the high-dimensional linear master equation dynamics (left) and a dimension reduced direct acyclic network (right) for oxygen combustion network, exhibiting non-normal growth dynamics. 
+</figcaption>
+</figure>
+
 ## Related works
 1. Nicolaou, Nicholson, Nishikawa, Motter, and Green, Prevalence of multistability and nonstationarity in driven chemical networks, in preparation.
 7. Nicolaou and Motter. [Missing links as a source of seemingly variable constants in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043135), Phys. Rev. Research **2**, 043135 (2020).
