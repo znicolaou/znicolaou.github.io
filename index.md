@@ -2,8 +2,8 @@
 layout: home
 title: Zachary G. Nicolaou
 subtitle: |
-|Acting Instructor University of Washington Department of Applied Mathematics
-|Washington Research Foundation Postdoctoral Scholar
+  | Acting Instructor University of Washington Department of Applied Mathematics
+  | Washington Research Foundation Postdoctoral Scholar
 ---
 
 Welcome to my website!
@@ -18,7 +18,7 @@ My research themes include:
 - [Material and Fluid Design](materials.md)
 - [Patterns of Synchrony](synchronization.md)
 - [Complex Chemical Dynamics](chemistry.md)
-- [Numerics and Machine Learning](numerics.mb)
+- [Numerics and Machine Learning](numerics.md)
 
 ---
 
