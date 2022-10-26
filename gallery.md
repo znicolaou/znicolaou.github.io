@@ -76,7 +76,7 @@ title: Gallery
 <details>
 	<summary>Click to expand</summary>
   <pre>
-  <div class="left" style="width:300px; vertical-align:top; white-space:pre-wrap;">
+  <div class="left" style="width:350px; vertical-align:top; white-space:pre-wrap;">
     <img src="/assets/gallery/unpublished/9animation.gif" />
     <p>A gas of soft spheres near the jamming transition.</p>
   </div>
