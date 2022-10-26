@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patterns of synchrony
+title: Patterns of Synchrony
 ---
 Synchronization, in which the coupled oscillators begin to evolve in a highly correlated manner, is one of the best characterized examples of complex and emergent phenomena in nonlinear dynamics. Pioneers like Kuramoto and Winfree sought to apply methods from statistical physics to the oscillatory dynamics appearing in biological and chemical systems.  More recently, the discovery of chimera states, consisting of coexisting domains of coherence and incoherence in identical and identically-coupled oscillators, has led to interesting studies in symmetry breaking bifurcations. The impact of coupling network structure and disorder has also highlighted the diverse range of complex synchronization phenomena emerging in real-world systems.
 

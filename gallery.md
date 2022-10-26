@@ -81,9 +81,9 @@ title: Gallery
     <p>A gas of soft spheres near the jamming transition.</p>
   </div>
 
-  <div class="right" style="width:300px; vertical-align:top; white-space:pre-wrap">
+  <div class="right" style="width:250px; vertical-align:top; white-space:pre-wrap">
     <img src="/assets/gallery/unpublished/intruders.gif" />
-    <p>Particle tracking of large defects in a granular material medium driven by vibrations.</p>
+    <p>Particle tracking of large defects in a granular material medium driven by vibrations. Courtesy of Joseph Williams. </p>
   </div>
   </pre>
 
