@@ -11,5 +11,5 @@ Novel machine learning approaches are revolutionizing scientific research, but t
 ## Related works
 [1] Nicolaou, Nicholson, Nishikawa, Motter, and Green, Prevalence of multistability and nonstationarity in driven chemical networks, in preparation.  
 [2] Nicolaou, Guo, Chen, Brunton, and Kutz, Data-driven discovery and extrapolation of parameterized pattern-forming dynamics, in preparation.  
-[3] Kaptanoglu, de Silva,  Fasel,  Kaheman, Goldschmidt,  Callaham, Delahunt, Nicolaou,  Champion, Loiseau,  Kutz, and Brunton, 	[PySINDy: A comprehensive Python package for robust sparse system identification](https://doi.org/10.21105/joss.03994), J. Open Source Softw. **7**, 3994 (2022).
+[3] Kaptanoglu, de Silva,  Fasel,  Kaheman, Goldschmidt,  Callaham, Delahunt, Nicolaou,  Champion, Loiseau,  Kutz, and Brunton, 	[PySINDy: A comprehensive Python package for robust sparse system identification](https://doi.org/10.21105/joss.03994), J. Open Source Softw. **7**, 3994 (2022).  
 [5] Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).  
