@@ -4,6 +4,7 @@ title: About me
 ---
 
 [Curriculum Vitae](/assets/ZGNicolaou_CV.pdf)
+
 [zgn@uw.edu](mailto:zgn@uw.edu)
 
 I  am currently a Washington Research Foundation Postdoctoral Scholar in the Department of Applied Mathematics at the University of Washington, and I collaborate with the groups of [J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven L. Brunton](https://www.eigensteve.com/). I received my B.S. from Northwestern University, majoring in Integrated Science, Physics, and Mathematics, and I received a Master’s of Advanced Study in Applied Mathematics and Theoretical Physics in the Part III program at Cambridge. I received my Ph. D. from Caltech in 2017, with my dissertation "Symmetry and variational analyses of fluid interface equations in the thin film limit".

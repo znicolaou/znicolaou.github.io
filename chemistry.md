@@ -5,8 +5,11 @@ title: Complex Chemical Dynamics
 Chemical reaction networks exhibit complex and multi-scale dynamics in critical engineering and scientific systems. Application areas include combustion and related industrial energy systems, atmospheric chemistry of pollution and climate change models, and metabolic networks for biophysical cellular dynamics. These reaction networks are characterized by chemical species, reactions, and reaction rates, and are coupled to thermodynamic and transport processes. Researchers have focused on accurate models and measurements for individual chemical reaction rates for decades, but when complex models are built from these components, insurmountable challenges have arisen. I am interested in developing more principled models for chemical reaction networks, which account for physical and chemical processes while accounting for the complex collective behavior and sensitive and incomplete network information, leveraging machine learning and reduced-order approaches.
 
 <figure>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 <img src="/assets/img/chemistry.jpg" width=1024 />
-<figcaption align="center">(a) Driven chemical reaction network characterized by species concentrations $X_i$ and rate constants $\kappa_j^\pm$. (b) Ignition in a methane combustion network. (c) Network representation of the high-dimensional linear master equation dynamics (left) and a dimension reduced direct acyclic network (right) for oxygen combustion network, exhibiting non-normal growth dynamics. 
+<figcaption align="center">(a) Driven chemical reaction network characterized by species concentrations <script type="math/tex; mode=inline"> X_i </script> and rate constants <script type="math/tex; mode=inline"> \kappa_j^\pm </script>. (b) Ignition in a methane combustion network. (c) Network representation of the high-dimensional linear master equation dynamics (left) and a dimension reduced direct acyclic network (right) for oxygen combustion network, exhibiting non-normal growth dynamics. 
 </figcaption>
 </figure>
 

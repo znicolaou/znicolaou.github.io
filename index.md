@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Zachary G. Nicolaou
-subtitle: Acting Instructor, University of Washington Department of Applied Mathematics <br> Washington Research Foundation Postdoctoral Scholar
+subtitle: Acting Instructor, University of Washington Department of Applied Mathematics | Washington Research Foundation Postdoctoral Scholar
 ---
 
 Welcome to my website!
