@@ -286,5 +286,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+# Google Analytics
+google_analytics: G-L5JVWDQNFY
+
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
