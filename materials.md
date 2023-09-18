@@ -6,15 +6,15 @@ Material and fluid systems, composed of microscopic and mesoscopic coupled mater
 
 <figure>
 <img src="/assets/img/materials.jpg" width=1024 />
-<figcaption align="center">(a) Unit cell design for a mechanical metamaterial exhibit negative compressibility transitions [15,16]. (b) Thin film instabilities and symmetry reductions [12,14]. (c) Anharmonic response due to coresonant modes in a pendulum array driven near a band gap [5]. (d) Heterogeneity-stabilized homogeneous states in Faraday wave finite element simulations and experiments [4].
+<figcaption align="center">(a) Unit cell design for a mechanical metamaterial exhibit negative compressibility transitions [16, 17]. (b) Thin film instabilities and symmetry reductions [13, 15]. (c) Anharmonic response due to coresonant modes in a pendulum array driven near a band gap [6]. (d) Heterogeneity-stabilized homogeneous states in Faraday wave finite element simulations and experiments [5].
 </figcaption>
 </figure>
 
 ## Related works
-[4] Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).  
-[5] Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).  
-[11] Nicolaou, Xu, and  Motter, [Minimal scattering entanglement in one-dimensional trapped gases](https://doi.org/10.1103/PhysRevA.99.012316), Phys. Rev. A **99**, 012316 (2019).  
-[12] Nicolaou, [Stability and instability of axisymmetric droplets in thermocapillary-driven thin films](https://doi.org/10.1088/1361-6544/aa999c), Nonlinearity **31**, 1009 (2018).  
-[14] Nicolaou, [Symmetry and variational analyses of fluid interface equations in the thin film limit](https://www.proquest.com/docview/2129710996?pq-origsite=gscholar&fromopenview=true). California Institute of Technology ProQuest Dissertations Publishing, 2017.  
-[15] Nicolaou and Motter, [Longitudinal inverted compressibility in super-strained metamaterials](https://doi.org/10.1007/s10955-013-0742-8), J. Stat. Phys. **151**, 1162 (2013).  
-[16] Nicolaou and Motter, [Mechanical metamaterials with negative compressibility transitions](https://doi.org/10.1038/nmat3331), Nat. Mater.  **11**, 608 (2012).
+[5] Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).  
+[6] Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).  
+[12] Nicolaou, Xu, and  Motter, [Minimal scattering entanglement in one-dimensional trapped gases](https://doi.org/10.1103/PhysRevA.99.012316), Phys. Rev. A **99**, 012316 (2019).  
+[13] Nicolaou, [Stability and instability of axisymmetric droplets in thermocapillary-driven thin films](https://doi.org/10.1088/1361-6544/aa999c), Nonlinearity **31**, 1009 (2018).  
+[15] Nicolaou, [Symmetry and variational analyses of fluid interface equations in the thin film limit](https://www.proquest.com/docview/2129710996?pq-origsite=gscholar&fromopenview=true). California Institute of Technology ProQuest Dissertations Publishing, 2017.
+[16] Nicolaou and Motter, [Longitudinal inverted compressibility in super-strained metamaterials](https://doi.org/10.1007/s10955-013-0742-8), J. Stat. Phys. **151**, 1162 (2013).  
+[17] Nicolaou and Motter, [Mechanical metamaterials with negative compressibility transitions](https://doi.org/10.1038/nmat3331), Nat. Mater.  **11**, 608 (2012).  

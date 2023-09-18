@@ -9,11 +9,11 @@ Chemical reaction networks exhibit complex and multi-scale dynamics in critical 
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <img src="/assets/img/chemistry.jpg" width=1024 />
-<figcaption align="center">(a) Driven chemical reaction network characterized by species concentrations <script type="math/tex; mode=inline"> X_i </script> and rate constants <script type="math/tex; mode=inline"> \kappa_j^\pm </script> [1]. (b) Ignition in a methane combustion network, exhibiting sensitivity to missing reactions links [7]. (c) Network representation of the high-dimensional linear master equation dynamics (left) and a dimension reduced direct acyclic network (right) for oxygen combustion network, exhibiting non-normal growth dynamics [8].
+<figcaption align="center">(a) Driven chemical reaction network characterized by species concentrations <script type="math/tex; mode=inline"> X_i </script> and rate constants <script type="math/tex; mode=inline"> \kappa_j^\pm </script> [3]. (b) Ignition in a methane combustion network, exhibiting sensitivity to missing reactions links [8]. (c) Network representation of the high-dimensional linear master equation dynamics (left) and a dimension reduced direct acyclic network (right) for oxygen combustion network, exhibiting non-normal growth dynamics [9].
 </figcaption>
 </figure>
 
 ## Related works
-[1] Nicolaou, Nicholson, Nishikawa, Motter, and Green, Prevalence of multistability and nonstationarity in driven chemical networks, in preparation.  
-[7] Nicolaou and Motter. [Missing links as a source of seemingly variable constants in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043135), Phys. Rev. Research **2**, 043135 (2020).  
-[8] Nicolaou, Nishikawa, Nicholson, Green, and Motter, [Non-normality and non-monotonic dynamics in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043059), Phys. Rev. Research **2**, 043059 (2020).  
+[3] Nicolaou, Nicholson, Motter, and Green, [Prevalence of multistability and nonstationarity in driven chemical networks](https://doi.org/10.1063/5.0142589), The Journal of Chemical Physics **158**, 225101 (2023).  
+[8] Nicolaou and Motter. [Missing links as a source of seemingly variable constants in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043135), Phys. Rev. Research **2**, 043135 (2020).  
+[9] Nicolaou, Nishikawa, Nicholson, Green, and Motter, [Non-normality and non-monotonic dynamics in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043059), Phys. Rev. Research **2**, 043059 (2020).  

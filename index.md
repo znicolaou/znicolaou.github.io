@@ -8,7 +8,7 @@ Welcome to my website!
 
 ---
 
-I study a variety of classical physical systems, scientific computing and machine learning approaches, and complex phenomena. You can see more details [about me](aboutme.md).
+I study a variety of classical pattern-forming systems, scientific computing and machine learning approaches, and complex phenomena. You can see more details [about me](aboutme.md).
 
 ---
 
