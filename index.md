@@ -8,16 +8,16 @@ Welcome to my website!
 
 ---
 
-I study a variety of classical pattern-forming systems, scientific computing and machine learning approaches, and complex phenomena. You can see more details [about me](aboutme.md).
+I study a variety of classical pattern-forming systems, scientific computing and machine learning approaches, and complex phenomena. You can see more details [about me](aboutme).
 
 ---
 
 My research themes include:
-- [Material and Fluid Design](materials.md)
-- [Patterns of Synchrony](synchronization.md)
-- [Complex Chemical Dynamics](chemistry.md)
-- [Numerics and Machine Learning](numerics.md)
+- [Material and Fluid Design](materials)
+- [Patterns of Synchrony](synchronization)
+- [Complex Chemical Dynamics](chemistry)
+- [Numerics and Machine Learning](numerics)
 
 ---
 
-Check out my gallery for some pretty [animated figures](gallery.md) and [animated paper summaries](gallery2.md).
+Check out my [videos](gallery2) for some pretty animated paper summaries.
