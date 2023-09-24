@@ -22,10 +22,10 @@ navbar-links:
   About: "aboutme"
   Papers: "papers"
   Reseach themes:
+    - Numerics and Machine Learning: "numerics"
     - Material and Fluid Design: "materials"
     - Patterns of Synchrony: "synchronization"
     - Complex Chemical Dynamics: "chemistry"
-    - Numerics and Machine Learning: "numerics"
   Videos: "gallery2"
   Software: "https://github.com/znicolaou?tab=repositories"
 
