@@ -7,7 +7,7 @@ title: Papers
 
 [1] Nicolaou and Bramburger, [Complex localization mechanisms in networks of coupled oscillators: two case studies](https://arxiv.org/abs/2309.08547), arXiv preprint arXiv:2309.08547 (2023).   
 [2] Nicolaou, When Patterns Come to Life, Comment on ''Unified representation of Life’s basic properties by a 3-species Stochastic Cubic Autocatalytic Reaction-Diffusion system of equations'', to appear in Phys. Life Rev. (2023).   
-[3] Nicolaou, Guo, Chen, Brunton, and Kutz, [Data-driven discovery and extrapolation of parameterized pattern-forming dynamics](https://arxiv.org/abs/2301.02673), to appear in Phys. Rev. Research (2023).  
+[3] Nicolaou, Guo, Chen, Brunton, and Kutz, [Data-driven discovery and extrapolation of parameterized pattern-forming dynamics](https://doi.org/10.1103/PhysRevResearch.5.L042017), Phys. Rev. Research 5, L042017 (2023).
 [4] Nicolaou, Nicholson, Motter, and Green, [Prevalence of multistability and nonstationarity in driven chemical networks](https://doi.org/10.1063/5.0142589), The Journal of Chemical Physics **158**, 225101 (2023).  
 [5] Kaptanoglu, Zhang, Nicolaou, Fasel, and Brunton, [Benchmarking sparse system identification with low-dimensional chaos](https://doi.org/10.1007/s11071-023-08525-4) Nonlinear Dynamics **111**, 13143–13164  (2023).  
 [6] Kaptanoglu, de Silva,  Fasel,  Kaheman, Goldschmidt,  Callaham, Delahunt, Nicolaou,  Champion, Loiseau,  Kutz, and Brunton, 	[PySINDy: A comprehensive Python package for robust sparse system identification](https://doi.org/10.21105/joss.03994), J. Open Source Softw. **7**, 3994 (2022).  
