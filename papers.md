@@ -5,7 +5,7 @@ title: Papers
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ)
 
-[1] Nicolaou and Bramburger, [Complex localization mechanisms in networks of coupled oscillators: two case studies](https://arxiv.org/abs/2309.08547), Chaos 34, 013131 (2023).   
+[1] Nicolaou and Bramburger, [Complex localization mechanisms in networks of coupled oscillators: two case studies](https://arxiv.org/abs/2309.08547), Chaos **34**, 013131 (2023).   
 [2] Nicolaou, When Patterns Come to Life, Comment on ''Unified representation of Life’s basic properties by a 3-species Stochastic Cubic Autocatalytic Reaction-Diffusion system of equations'', Phys. Life Rev. **47**, 108-109 (2023).  
 [3] Nicolaou, Guo, Chen, Brunton, and Kutz, [Data-driven discovery and extrapolation of parameterized pattern-forming dynamics](https://doi.org/10.1103/PhysRevResearch.5.L042017), Phys. Rev. Research **5**, L042017 (2023).  
 [4] Nicolaou, Nicholson, Motter, and Green, [Prevalence of multistability and nonstationarity in driven chemical networks](https://doi.org/10.1063/5.0142589), The Journal of Chemical Physics **158**, 225101 (2023).  
