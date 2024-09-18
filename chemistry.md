@@ -19,13 +19,15 @@ Chemical reaction networks exhibit complex and multi-scale dynamics in critical 
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <img src="/assets/img/chemistry.jpg" width=1024 />
-<figcaption align="center">(a) Spiral patterns (frozen vortex chimeras) in the complex Ginzburg-Landau model for BZ chemical reaction dynamics [16]. (b) Ignition in a methane combustion network, exhibiting sensitivity to missing reactions links [8]. (c) Reduced network representation of the high-dimensional linear master equation dynamics for oxygen combustion network, exhibiting non-normal growth dynamics [9]. (d) Driven chemical reaction network characterized by species concentrations <script type="math/tex; mode=inline"> X_i </script> and rate constants <script type="math/tex; mode=inline"> \kappa_j^\pm </script> [3].
+<figcaption align="center">(a) Spiral patterns (frozen vortex chimeras) in the complex Ginzburg-Landau model for BZ chemical reaction dynamics. (b) Ignition in a methane combustion network, exhibiting sensitivity to missing reactions links. (c) Reduced network representation of the high-dimensional linear master equation dynamics for oxygen combustion network, exhibiting non-normal growth dynamics. (d) Driven chemical reaction network characterized by species concentrations <script type="math/tex; mode=inline"> X_i </script> and rate constants <script type="math/tex; mode=inline"> \kappa_j^\pm </script>.
 </figcaption>
 </figure>
 
 ## Related works
-[2] Nicolaou, When Patterns Come to Life, Comment on ''Unified representation of Life’s basic properties by a 3-species Stochastic Cubic Autocatalytic Reaction-Diffusion system of equations'', to appear in Phys. Life Rev. (2023).  
-[3] Nicolaou, Nicholson, Motter, and Green, [Prevalence of multistability and nonstationarity in driven chemical networks](https://doi.org/10.1063/5.0142589), The Journal of Chemical Physics **158**, 225101 (2023).  
-[8] Nicolaou and Motter. [Missing links as a source of seemingly variable constants in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043135), Phys. Rev. Research **2**, 043135 (2020).  
-[9] Nicolaou, Nishikawa, Nicholson, Green, and Motter, [Non-normality and non-monotonic dynamics in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043059), Phys. Rev. Research **2**, 043059 (2020).  
-[16] Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).  
+[4] Nicolaou, When Patterns Come to Life, Comment on ''Unified representation of Life’s basic properties by a 3-species Stochastic Cubic Autocatalytic Reaction-Diffusion system of equations'', Phys. Life Rev. **47**, 108-109 (2023).  
+[5] Nicolaou, Guo, Chen, Brunton, and Kutz, [Data-driven discovery and extrapolation of parameterized pattern-forming dynamics](https://doi.org/10.1103/PhysRevResearch.5.L042017), Phys. Rev. Research **5**, L042017 (2023).  
+[6] Nicolaou, Nicholson, Motter, and Green, [Prevalence of multistability and nonstationarity in driven chemical networks](https://doi.org/10.1063/5.0142589), The Journal of Chemical Physics **158**, 225101 (2023).  
+[11] Nicolaou, Sebek, Kiss, and Motter, [Coherent dynamics enhanced by uncorrelated noise](https://doi.org/10.1103/PhysRevLett.125.094101), Phys. Rev. Lett. **125**, 094101 (2020).  
+[12] Nicolaou and Motter. [Missing links as a source of seemingly variable constants in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043135), Phys. Rev. Research **2**, 043135 (2020).  
+[13] Nicolaou, Nishikawa, Nicholson, Green, and Motter, [Non-normality and non-monotonic dynamics in complex reaction networks](https://doi.org/10.1103/PhysRevResearch.2.043059), Phys. Rev. Research **2**, 043059 (2020).  
+[18] Nicolaou, Riecke, and  Motter, [Chimera states in continuous media: Existence and distinctness](https://doi.org/10.1103/PhysRevLett.119.244101), Phys. Rev. Lett. **119**, 244101 (2017).  
