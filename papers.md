@@ -5,7 +5,11 @@ title: Papers
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ)
 
-[1] Nicolaou, Motter, and Jiang, Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities, to appear in Nat. Comm.(2024).   
+New preprint!
+Williams,  Nicolaou, Kutz, and Brunton. [Data-Driven Discovery of a New Ginzburg-Landau Reduced-Order Model for Vortex Shedding](https://arxiv.org/abs/2411.08277), arXiv:2411.08277 (2024).
+
+Published articles
+[1] Nicolaou, Motter, and Jiang, [Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities](https://www.nature.com/articles/s41467-024-52853-x), Nat Commun **15**, 8573 (2024).  
 [2] Nicolaou and Motter, [From a Point to a Torus: Unveiling Emergent Dynamics with Higher-order Bifurcations](https://siam.org/publications/siam-news/articles/from-a-point-to-a-torus-unveiling-emergent-dynamics-with-higher-order-bifurcations/) SIAM News **57**, 1 (2024).  
 [3] Nicolaou and Bramburger, [Complex localization mechanisms in networks of coupled oscillators: two case studies](https://pubs.aip.org/aip/cha/article/34/1/013131/3061429), Chaos **34**, 013131 (2024).  
 [4] Nicolaou, When Patterns Come to Life, Comment on ''Unified representation of Life’s basic properties by a 3-species Stochastic Cubic Autocatalytic Reaction-Diffusion system of equations'', Phys. Life Rev. **47**, 108-109 (2023).  
