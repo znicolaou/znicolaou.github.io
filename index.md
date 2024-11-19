@@ -33,8 +33,8 @@ I study a variety of classical pattern-forming systems, scientific computing and
 My research themes include:
 - [Material and Fluid Design](materials)
 - [Patterns of Synchrony](synchronization)
-- [Numerics and Machine Learning](numerics)
 - [Complex Chemical Dynamics](chemistry)
+- [Numerics and Machine Learning](numerics)
 
 ---
 
