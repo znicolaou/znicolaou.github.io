@@ -5,11 +5,11 @@ title: Papers
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ)
 
-##New preprint!
+##New preprint!  
 
 Williams,  Nicolaou, Kutz, and Brunton. [Data-Driven Discovery of a New Ginzburg-Landau Reduced-Order Model for Vortex Shedding](https://arxiv.org/abs/2411.08277), arXiv:2411.08277 (2024).
 
-##Published articles
+##Published articles  
 
 [1] Nicolaou, Motter, and Jiang, [Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities](https://www.nature.com/articles/s41467-024-52853-x), Nat Commun **15**, 8573 (2024).  
 [2] Nicolaou and Motter, [From a Point to a Torus: Unveiling Emergent Dynamics with Higher-order Bifurcations](https://siam.org/publications/siam-news/articles/from-a-point-to-a-torus-unveiling-emergent-dynamics-with-higher-order-bifurcations/) SIAM News **57**, 1 (2024).  
