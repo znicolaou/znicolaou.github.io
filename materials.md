@@ -13,7 +13,7 @@ title: Material and Fluid Design
   </div>
 </div>
 </pre>
-
+{: style="text-align: justify" }
 Material and fluid systems, composed of microscopic and mesoscopic coupled material elements, can exhibit diverse and complex macroscopic behaviors. The theory of pattern formation, developed in the late twentieth century, characterizes universal mechanisms for the development of patterns seen in natural and man-made systems alike, ranging from morphological development in biology and waves in driven fluids to ecological patterns of vegetation and planetary bands. Key to this approach is the characterization of instabilities and symmetry breaking bifurcations, which enables the development of universal model equations and universality classes. I aim to leverage understanding in pattern formation to design of novel metamaterials, fluid systems, and self-assembled computational and sensing technologies.
 
 <figure>
@@ -23,7 +23,7 @@ Material and fluid systems, composed of microscopic and mesoscopic coupled mater
 </figure>
 
 ## Related works
-[1] Nicolaou, Motter, and Jiang, Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities, to appear in Nat. Comm.(2024).   
+[1] Nicolaou, Motter, and Jiang, [Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities](https://www.nature.com/articles/s41467-024-52853-x), Nat Commun **15**, 8573 (2024).  
 [9] Nicolaou, Case, van der Wee, Driscoll, and  Motter, [Heterogeneity-stabilized homogeneous states in driven media](https://doi.org/10.1038/s41467-021-24459-0), Nat. Comm. **12**, 4486 (2021).  
 [10] Nicolaou and Motter. [Anharmonic classical time crystals: A coresonance pattern formation mechanism](https://doi.org/10.1103/PhysRevResearch.3.023106), Phys. Rev. Research **3**, 023106 (2021).  
 [16] Nicolaou, Xu, and  Motter, [Minimal scattering entanglement in one-dimensional trapped gases](https://doi.org/10.1103/PhysRevA.99.012316), Phys. Rev. A **99**, 012316 (2019).  
