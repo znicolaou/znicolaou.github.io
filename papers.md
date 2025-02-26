@@ -5,7 +5,8 @@ title: Papers
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=P7hfYakAAAAJ)
 
-#### New preprint!  
+#### New preprints!  
+Nicolaou, Cho, Zhang, Kutz, and Brunton, S.L., [Signature of glassy dynamics in dynamic modes decompositions](https://arxiv.org/abs/2502.10918), arXiv preprint arXiv:2502.10918 (2025).
 
 Williams,  Nicolaou, Kutz, and Brunton. [Data-Driven Discovery of a New Ginzburg-Landau Reduced-Order Model for Vortex Shedding](https://arxiv.org/abs/2411.08277), arXiv:2411.08277 (2024).
 
