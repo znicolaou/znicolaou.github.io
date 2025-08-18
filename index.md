@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Zachary G. Nicolaou
-subtitle: Acting Instructor, University of Washington Department of Applied Mathematics | Washington Research Foundation Postdoctoral Scholar
+subtitle: Assistant Professor, University of Tennessee | Department of Physics 
 ---
 
 <div class="container-fluid">
