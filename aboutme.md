@@ -5,7 +5,7 @@ title: About me
 
 [Curriculum Vitae](/assets/ZGNicolaou_CV.pdf)
 
-[zgn@uw.edu](mailto:zgn@uw.edu)
+[zack.nicolaou@utk.edu](mailto:zack.nicolaou@utk.edu)
 
 I am an Assistant Professor in the Department of Physics at the University of Tennessee. I received my B.S. from Northwestern University, majoring in Integrated Science, Physics, and Mathematics, and I received a Master’s of Advanced Study in Applied Mathematics and Theoretical Physics in the Part III program at Cambridge. I received my Ph. D. from Caltech in 2017, with my dissertation "Symmetry and variational analyses of fluid interface equations in the thin film limit", and I did postdoctoral work with Adilson Motter at Northwestern University, Jason Green at UMass Boston, and Nathan Kutz and Steve Brunton at the University of Washington.
 
