@@ -15,19 +15,23 @@ Contact me at <a href="mailto:zack.nicolaou@utk.edu">zack.nicolaou@utk.edu</a> i
   </center>
   <div class="col"></div>
   </div>
+
+  <div class="row">
   <div class="col"></div>
   <center>
   <h4>Open graduate and postdoctoral research positions at UTK! </h4>
   </center>
   <div class="col"></div>
   </div>
+
+  <div class="row">
   <div class="col"></div>
   <center>
   Contact me at <a href="mailto:zack.nicolaou@utk.edu">zack.nicolaou@utk.edu</a> if you are intereted in research opportunities.
   </center>
   <div class="col"></div>
   </div>
-
+  
   <div class="row">
   <div class="col"></div>
   <img src="/assets/gallery/unpublished/fwanimation.gif" height="150" />
@@ -36,7 +40,6 @@ Contact me at <a href="mailto:zack.nicolaou@utk.edu">zack.nicolaou@utk.edu</a> i
   <div class="col"></div>
   <img src="/assets/gallery/figures/anharmonic.gif" height="150"  />
   <div class="col"></div>
-  </div>
 </div>
 <br>
 
