@@ -3,7 +3,9 @@ layout: home
 title: Zachary G. Nicolaou
 subtitle: Assistant Professor, University of Tennessee | Department of Physics 
 ---
+**Open graduate and postdoctoral research positions at UTK!** Contact me at [zack.nicolaou@utk.edu](mailto:zack.nicolaou@utk.edu) if you are intereted in research opportunities. 
 
+---
 <div class="container-fluid">
   <div class="row">
   <div class="col"></div>
