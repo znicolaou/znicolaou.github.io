@@ -23,7 +23,7 @@ Contact me at <a href="mailto:zack.nicolaou@utk.edu">zack.nicolaou@utk.edu</a> i
   </div>
   <div class="col"></div>
   <center>
-  Contact me at [zack.nicolaou@utk.edu](mailto:zack.nicolaou@utk.edu) if you are intereted in research opportunities.
+  Contact me at <a href="mailto:zack.nicolaou@utk.edu">zack.nicolaou@utk.edu</a> if you are intereted in research opportunities.
   </center>
   <div class="col"></div>
   </div>
